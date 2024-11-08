@@ -224,9 +224,10 @@ Ask your hacker house mentor for coupons, then follow the steps outlined [here](
 
 ## Bounty Submission
 
-To submit a bounty for the hackathon - open an [Issue](https://github.com/ICP-Hacker-House/Devcon_BKK/issues/new/choose) on this repository before the deadline.
-Set the title of the Issue as follows: Bounty Submission.
-See an example bounty submission [here](https://github.com/ICP-Hacker-House/Devcon_BKK/issues/2#issue-2640519216).
+To submit a bounty for the hackathon - open a NEW [Issue](https://github.com/ICP-Hacker-House/Devcon_BKK/issues/new/choose) on this repository before the deadline.
+Set the title of the Issue as follows: Bounty Submission (Easy/Medium).
+For example: "Bounty Submission Easy"
+See an example bounty submission [here](https://github.com/ICP-Hacker-House/Devcon_BKK/issues/2).
 In order for your submission to be considered, include the following things in the Issue description:
 
 -   link to a Github repository containing **your** project code (main branch is considered only)
@@ -243,9 +244,10 @@ Once you submitted the issue, approach a mentor at the hacker house to review yo
 
 ## Track Submission
 
-To submit a project for the hackathon - open an [Issue](https://github.com/ICP-Hacker-House/Devcon_BKK/issues/new/choose) on this repository before the deadline.
-Set the title of the Issue to the name of your project.
-See an example project submission [here](https://github.com/ICP-Hacker-House/Devcon_BKK/issues/1#issue-2640492144). Make sure you read the "What we're looking for" and "Judging Criteria" sections for each track before submitting.
+To submit a project for the hackathon - open a NEW [Issue](https://github.com/ICP-Hacker-House/Devcon_BKK/issues/new/choose) on this repository before the deadline.
+Set the title of the Issue to Team #(number) - (name of the project).
+For example: "Team #42 - SuperCoolSwap"
+See an example project submission [here](https://github.com/ICP-Hacker-House/Devcon_BKK/issues/1). Make sure you read the "What we're looking for" and "Judging Criteria" sections for each track before submitting.
 In order for your submission to be considered, include the following things in the Issue description:
 
 -   link to a Github repository containing **your** project code (not just the template!) and a README.md on how to run it (main branch is considered only)

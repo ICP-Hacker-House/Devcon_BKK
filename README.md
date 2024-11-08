@@ -43,6 +43,7 @@ Throughout the hacker house, you'll have the opportunity to complete various Bou
 -   **Random Game with ICP (awarded 20 times)**: Use on-chain randomness to build a simple game, enabling user authentication with Internet Identity and a frontend for interaction.
 -   **Subscription Service (awarded 10 times)**: Set up a canister that collects recurring payments from an Ethereum account, using [USDC](https://faucet.circle.com/) or [WETH](https://weth.altlayer.io/transfer) on Sepolia. `approve` the canister’s Ethereum address for a certain amount and then let the canister call `transferFrom` regularly using [a timer](https://github.com/dfinity/examples/tree/master/rust/periodic_tasks) to deduct the subscription fee from your account.
 -   **Whale Watcher (awarded 10 times)**: Create a canister to monitor USDC transfers over 1 million, storing and exposing the transfer details via query call on a frontend. A cool stretch goal would be to automatically mint an ERC-721 NFT Whale NFT to the receiver
+-   **Loyality Program (awarded 20 times)**: Create a loyalty program using Solidity. Users earn points by completing actions (e.g., logging in daily or making a purchase), track balances, and redeem rewards in the form of discounts on product purchase. Loyality points can be in the form of ERC-20 tokens. Deploy it on [Bitfinity](https://bitfinity.network/) testnet.
 
 # Tracks
 

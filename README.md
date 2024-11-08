@@ -203,6 +203,7 @@ Leverage the EVM compatibility of Bitfinity on ICP to create a dApp that pushes 
 
 # Resources
 
+-   [ICP Ninja](https://icp.ninja)
 -   [ICP Hackathon Cheatsheet](https://www.notion.so/ICP-Hackathon-Cheat-Sheet-b2921239266149de81021412f572351c?pvs=21)
 -   [Developer Documentation](https://internetcomputer.org/docs/current/home)
 -   [Developer Forum](https://forum.dfinity.org/)

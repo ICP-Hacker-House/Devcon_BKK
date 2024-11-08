@@ -2,7 +2,7 @@
 
 ## Content
 
--   [Bountys](#bountys)
+-   [Bounties](#bounties)
 -   [Tracks](#tracks)
 -   [Resources](#resources)
 -   [Cycles](#cycles)
@@ -10,11 +10,11 @@
 -   [Judging](#judging)
 -   [Payout](#payout)
 
-# Bountys
+# Bounties
 
-Throughout the hacker house, you'll have the opportunity to complete various Bountys that will progressively prepare you for larger challenges, with rewards ranging from $20 to $100 based on complexity. Bountys are designed to be small, well-defined, and time-sensitive, allowing you to apply what you’ve learned and earn as you go. Completing Bountys will also bring you closer to submitting a final project for one of the larger Tracks. Try to complete Bountys as quickly as possible, as there’s only a limited number available to claim.
+Throughout the hacker house, you'll have the opportunity to complete various Bounties that will progressively prepare you for larger challenges, with rewards ranging from $20 to $100 based on complexity. Bounties are designed to be small, well-defined, and time-sensitive, allowing you to apply what you’ve learned and earn as you go. Completing Bounties will also bring you closer to submitting a final project for one of the larger Tracks. Try to complete Bounties as quickly as possible, as there’s only a limited number available to claim.
 
-## Easy Bountys – $25 Each
+## Easy Bounties – $25 Each
 
 -   **[Claim Cycles](https://anv4y-qiaaa-aaaal-qaqxq-cai.ic0.app/) and deploy a canister smart contract on ICP (awarded 100 times)**: Claim a cycles coupon and deploy a simple "Hello World" backend canister on mainnet, including a frontend with specific functionalities:
     -   Modify the `greet` function to update call.
@@ -36,7 +36,7 @@ Throughout the hacker house, you'll have the opportunity to complete various Bou
             -   Using an [asset canister](https://internetcomputer.org/docs/current/developer-docs/web-apps/application-frontends/existing-frontend), or
             -   Deploying via [Juno.build](https://juno.build/docs/guides/manual-deployment).
 
-## Medium Bountys – $100 Each
+## Medium Bounties – $100 Each
 
 -   **Token Deployment & Interaction (awarded 20 times)**: Deploy an ICRC-1 canister on mainnet with custom name and supply, and interact with it using `ic-js` and `@dfinity/agent-js`. Includes minting, transferring tokens, and displaying transaction history.
 -   **On-Chain Oracle (awarded 20 times)**: Use HTTP outcalls to fetch price data from Coinbase API at regular intervals, store it as a time series, and expose the data via query call on a frontend.
@@ -46,9 +46,9 @@ Throughout the hacker house, you'll have the opportunity to complete various Bou
 
 # Tracks
 
-Tracks are larger, open-ended projects with broader requirements and a higher reward pool. Each Track leverages unique features of the Internet Computer (ICP), enabling you to create applications that push the boundaries of blockchain technology. The Tracks are designed to build on top of the skills developed in the Bountys, giving you a solid foundation to tackle these more ambitious projects. Below are the available Tracks, each with a distinct focus and inspiration for your submissions.
+Tracks are larger, open-ended projects with broader requirements and a higher reward pool. Each Track leverages unique features of the Internet Computer (ICP), enabling you to create applications that push the boundaries of blockchain technology. The Tracks are designed to build on top of the skills developed in the Bounties, giving you a solid foundation to tackle these more ambitious projects. Below are the available Tracks, each with a distinct focus and inspiration for your submissions.
 
-## 1) **Fully On-Chain Dapps**
+## 1) **Fully On-Chain Dapps – Total Prize pool of USD 5k**
 
 The Internet Computer (ICP) is a third-generation blockchain, serving as a permissionless, decentralized cloud built on blockchain technology. Its smart contracts, known as canisters, are more akin to decentralized servers than traditional smart contracts, representing an evolution in blockchain-based applications. Due to their powerful nature, canisters can run general-purpose and even enterprise-level applications, offering flexibility far beyond typical smart contracts. With canisters, developers can build powerful dapps and services that benefit from 1-2 second transaction finality, enabling a user experience (UX) that closely resembles the speed and responsiveness customers are used to from web2 applications.
 
@@ -99,7 +99,15 @@ Leverage the unique power of ICP to build an app that **couldn't be built anywhe
 -   **Code Quality**: Is the code well-documented, structured, and maintainable?
 -   **Bonus**: Provide feedback on ICP’s unique features like HTTP Outcalls and Timers.
 
-## 2) **Chain Fusion**
+### Prizes
+
+1. USD 3k in ICP grants
+2. USD 1.5k in ICP grants
+3. USD 0.5k in ICP grants
+
+---
+
+## 2) **Chain Fusion – Total Prize pool of USD 5k**
 
 Leverage Internet Computer's new [Chain Fusion](https://internetcomputer.org/chainfusion) technology to build or extend a cross-chain dApp that integrates ICP with any other chain, including Bitcoin and Ethereum. Using Chain Fusion, you can connect these chains directly without bridges, oracles, or intermediaries. ICP canister smart contracts are capable of signing Ethereum or Bitcoin transactions directly via [ICP's threshold signing API](https://internetcomputer.org/docs/current/developer-docs/smart-contracts/encryption/t-ecdsa/), and they can read from other networks through integrations like [ICP’s Bitcoin API](https://internetcomputer.org/docs/current/developer-docs/multi-chain/bitcoin/overview) or [EVM RPC](https://internetcomputer.org/docs/current/developer-docs/multi-chain/ethereum/evm-rpc/overview) calls, or through custom [HTTPS outcalls](https://internetcomputer.org/docs/current/developer-docs/smart-contracts/advanced-features/https-outcalls/https-outcalls-overview).
 
@@ -140,7 +148,14 @@ Build a dapp that demonstrates ICP's cross-chain capabilities through Chain Fusi
 -   **Code Quality**: Is the code well-documented, structured, and easy to maintain?
 -   **Bonus**: Provide feedback on ICP’s chain-key signatures and other integration features.
 
-## 3) **EVM dApps on ICP**
+### Prizes
+
+1. USD 3k in ICP grants
+2. USD 2k in ICP grants
+
+---
+
+## 3) **EVM dApps on ICP – Total Prize pool of USD 5k**
 
 Develop Ethereum-compatible applications using [Bitfinity](https://bitfinity.network/), exploring diverse themes such as DeFi, NFTs, gaming, launchpads, and infrastructure solutions. In the DeFi space, projects can include automated market makers (AMMs) and aggregators, fostering new ways for users to engage with decentralized finance. NFT and gaming projects could involve building NFT platforms and marketplaces, creating unique gaming experiences that leverage blockchain technology, or establishing new forms of digital ownership. Launchpads like Pump.fun offer exciting possibilities for emerging projects to reach wider audiences, fueling growth and innovation.
 
@@ -179,6 +194,12 @@ Leverage the EVM compatibility of Bitfinity on ICP to create a dApp that pushes 
 -   **Functionality and Completeness**: Is the project fully functional, and does it achieve its intended purpose in a reliable, user-friendly way?
 -   **Code Quality and Documentation**: Is the code well-structured, documented, and easy for others to understand and extend?
 -   **Bonus Points**: Projects that provide feedback on using Bitfinity Network and highlight any areas of improvement or potential use cases.
+
+### Prizes
+
+1. USD 3k in ICP grants
+2. USD 1.5k in ICP grants
+3. USD 0.5k in ICP grants
 
 # Resources
 
@@ -233,7 +254,6 @@ In order for your submission to be considered, include the following things in t
 -   what Track you want to apply for
 -   team participants
     -   please use GitHub username for everyone
-    -   Discord IDs
 -   link to canister on mainnet (e.g. `https://5zugh-4yaaa-aaaag-qjqra-cai.raw.icp0.io`)
 -   your ICP principal for the payout (from the OISY wallet)
 

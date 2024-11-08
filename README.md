@@ -219,7 +219,16 @@ Leverage the EVM compatibility of Bitfinity on ICP to create a dApp that pushes 
 
 # Cycles
 
-Ask your hacker house mentor for coupons, then follow the steps outlined [here](https://internetcomputer.org/docs/current/developer-docs/getting-started/cycles/cycles-faucet#step-8-setup-dfx).
+Ask your hacker house mentor for cycles coupons, then follow the steps outlined here:
+
+```bash
+# 1. Make sure you are using the correct developer idenity. Check with:
+dfx identity whoami
+# 2. Redeem the coupon:
+dfx cycles redeem-faucet-coupon <coupon_number> --ic
+# 3. Check your new cycles balance:
+dfx cycles balance --ic
+```
 
 # How to Submit
 

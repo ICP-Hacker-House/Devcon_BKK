@@ -212,6 +212,8 @@ Leverage the EVM compatibility of Bitfinity on ICP to create a dApp that pushes 
 -   [BITFINITY EVM](https://docs.bitfinity.network/)
 -   [Tutorial BITFINITY -1](https://www.youtube.com/playlist?list=PLUDcVqFK2t-C36KaTMzV3y1wu8Hf-qyAI)
 -   [Tutorial BITFINITY -2](https://www.blog.bitfinity.network/how-to-deploy-a-solidity-smart-contract-to-the-bitfinity-evm/)
+- [Azle Book](https://demergent-labs.github.io/azle/the_azle_book.html)
+- [Azle 101](https://dacade.org/communities/icp/courses/typescript-smart-contract-101/learning-modules/b14741ea-ee33-43a4-a742-9cdc0a6f0d1c)
 
 # Cycles
 

@@ -85,6 +85,7 @@ Leverage the unique power of ICP to build an app that **couldn't be built anywhe
 
 ### What We’re Looking For
 
+- Frontend onchain is a must
 -   Projects that leverage the unique features ICP has to offer.
 -   Originality: The project must be a unique idea, not a rework of existing projects.
 -   The project must be deployed on the ICP mainnet.
@@ -96,7 +97,7 @@ Leverage the unique power of ICP to build an app that **couldn't be built anywhe
 
 -   **Uniqueness**: Does the project use at least one feature unique to ICP?
 -   **Creativity**: How innovative is the dapp and its use of ICP?
--   **Functionality**: Is the dapp fully functional and meets its intended purpose?
+-   **Functionality**: Is the dapp fully functional, has a frontend on ICP and meets its intended purpose?
 -   **Code Quality**: Is the code well-documented, structured, and maintainable?
 -   **Bonus**: Provide feedback on ICP’s unique features like HTTP Outcalls and Timers.
 
@@ -134,6 +135,7 @@ Build a dapp that demonstrates ICP's cross-chain capabilities through Chain Fusi
 
 ### What We’re Looking For
 
+- Frontend onchain is a must
 -   Projects that showcase one or more Chain Fusion features.
 -   Originality: The project must not be a rework of existing projects.
 -   A functional deployment on ICP mainnet.
@@ -145,7 +147,7 @@ Build a dapp that demonstrates ICP's cross-chain capabilities through Chain Fusi
 
 -   **Feature Utilization**: Does the project utilize at least one Chain Fusion feature?
 -   **Creativity**: How innovative is the project in terms of cross-chain functionality?
--   **Completeness**: Is the dapp fully functional and achieves its purpose?
+-   **Completeness**: Is the dapp fully functional, has a frontend on ICP and achieves its purpose?
 -   **Code Quality**: Is the code well-documented, structured, and easy to maintain?
 -   **Bonus**: Provide feedback on ICP’s chain-key signatures and other integration features.
 
@@ -181,6 +183,7 @@ Leverage the EVM compatibility of Bitfinity on ICP to create a dApp that pushes 
 
 ### What We’re Looking For
 
+- Frontend onchain is a must
 -   **Innovative Use of Bitfinity Network**: Projects should creatively leverage Bitfinity's EVM compatibility on ICP, offering unique or improved functionality for Ethereum-based applications.
 -   **Originality and Impact**: The project must bring a fresh idea to life rather than replicate existing solutions. We’re looking for ideas that provide new utility or significantly enhance current DeFi, NFT, gaming, or infrastructure solutions.
 -   **Fully Functional Deployment**: Projects must be deployed on the Bitfinity testnet and accessible for user interaction.
@@ -192,7 +195,7 @@ Leverage the EVM compatibility of Bitfinity on ICP to create a dApp that pushes 
 
 -   **Ethereum Compatibility**: Does the project make effective use of Ethereum compatibility through Bitfinity, enabling a seamless user experience or expanded functionality on ICP?
 -   **Creativity and Originality**: How innovative is the dApp in its approach, theme, or use of ICP’s unique features to enhance Ethereum-based applications?
--   **Functionality and Completeness**: Is the project fully functional, and does it achieve its intended purpose in a reliable, user-friendly way?
+-   **Functionality and Completeness**: Is the project fully functional, has a frontend on ICP and does it achieve its intended purpose in a reliable, user-friendly way?
 -   **Code Quality and Documentation**: Is the code well-structured, documented, and easy for others to understand and extend?
 -   **Bonus Points**: Projects that provide feedback on using Bitfinity Network and highlight any areas of improvement or potential use cases.
 

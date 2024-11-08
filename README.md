@@ -38,7 +38,7 @@ Throughout the hacker house, you'll have the opportunity to complete various Bou
 
 ## Medium Bounties – $100 Each
 
--   **Token Deployment & Interaction (awarded 20 times)**: Deploy an ICRC-1 canister on mainnet with custom name and supply, and interact with it using `ic-js` and `@dfinity/agent-js`. Includes minting, transferring tokens, and displaying transaction history.
+-   **Token Deployment & Interaction (awarded 20 times)**: Deploy an ICRC-1 canister on mainnet with custom name and supply, and interact with it using `ic-js` and `@dfinity/agent-js`. Includes minting, transferring tokens, and displaying transaction history for an specific account.
 -   **On-Chain Oracle (awarded 20 times)**: Use HTTP outcalls to fetch price data from Coinbase API at regular intervals, store it as a time series, and expose the data via query call on a frontend.
 -   **Random Game with ICP (awarded 20 times)**: Use on-chain randomness to build a simple game, enabling user authentication with Internet Identity and a frontend for interaction.
 -   **Subscription Service (awarded 10 times)**: Set up a canister that collects recurring payments from an Ethereum account, using [USDC](https://faucet.circle.com/) or [WETH](https://weth.altlayer.io/transfer) on Sepolia. `approve` the canister’s Ethereum address for a certain amount and then let the canister call `transferFrom` regularly using [a timer](https://github.com/dfinity/examples/tree/master/rust/periodic_tasks) to deduct the subscription fee from your account.

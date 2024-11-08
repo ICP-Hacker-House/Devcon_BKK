@@ -2,7 +2,7 @@
 
 ## Content
 
--   [Bountys](#bountys)
+-   [Bounties](#bounties)
 -   [Tracks](#tracks)
 -   [Resources](#resources)
 -   [Cycles](#cycles)
@@ -10,11 +10,11 @@
 -   [Judging](#judging)
 -   [Payout](#payout)
 
-# Bountys
+# Bounties
 
-Throughout the hacker house, you'll have the opportunity to complete various Bountys that will progressively prepare you for larger challenges, with rewards ranging from $20 to $100 based on complexity. Bountys are designed to be small, well-defined, and time-sensitive, allowing you to apply what you’ve learned and earn as you go. Completing Bountys will also bring you closer to submitting a final project for one of the larger Tracks. Try to complete Bountys as quickly as possible, as there’s only a limited number available to claim.
+Throughout the hacker house, you'll have the opportunity to complete various Bounties that will progressively prepare you for larger challenges, with rewards ranging from $20 to $100 based on complexity. Bountys are designed to be small, well-defined, and time-sensitive, allowing you to apply what you’ve learned and earn as you go. Completing Bountys will also bring you closer to submitting a final project for one of the larger Tracks. Try to complete Bountys as quickly as possible, as there’s only a limited number available to claim.
 
-## Easy Bountys – $25 Each
+## Easy Bounties – $25 Each
 
 -   **[Claim Cycles](https://anv4y-qiaaa-aaaal-qaqxq-cai.ic0.app/) and deploy a canister smart contract on ICP (awarded 100 times)**: Claim a cycles coupon and deploy a simple "Hello World" backend canister on mainnet, including a frontend with specific functionalities:
     -   Modify the `greet` function to update call.
@@ -36,7 +36,7 @@ Throughout the hacker house, you'll have the opportunity to complete various Bou
             -   Using an [asset canister](https://internetcomputer.org/docs/current/developer-docs/web-apps/application-frontends/existing-frontend), or
             -   Deploying via [Juno.build](https://juno.build/docs/guides/manual-deployment).
 
-## Medium Bountys – $100 Each
+## Medium Bounties – $100 Each
 
 -   **Token Deployment & Interaction (awarded 20 times)**: Deploy an ICRC-1 canister on mainnet with custom name and supply, and interact with it using `ic-js` and `@dfinity/agent-js`. Includes minting, transferring tokens, and displaying transaction history.
 -   **On-Chain Oracle (awarded 20 times)**: Use HTTP outcalls to fetch price data from Coinbase API at regular intervals, store it as a time series, and expose the data via query call on a frontend.

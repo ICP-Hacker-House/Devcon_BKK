@@ -214,8 +214,8 @@ Leverage the EVM compatibility of Bitfinity on ICP to create a dApp that pushes 
 -   [BITFINITY EVM](https://docs.bitfinity.network/)
 -   [Tutorial BITFINITY -1](https://www.youtube.com/playlist?list=PLUDcVqFK2t-C36KaTMzV3y1wu8Hf-qyAI)
 -   [Tutorial BITFINITY -2](https://www.blog.bitfinity.network/how-to-deploy-a-solidity-smart-contract-to-the-bitfinity-evm/)
-- [Azle Book](https://demergent-labs.github.io/azle/the_azle_book.html)
-- [Azle 101](https://dacade.org/communities/icp/courses/typescript-smart-contract-101/learning-modules/b14741ea-ee33-43a4-a742-9cdc0a6f0d1c)
+-   [Azle Book](https://demergent-labs.github.io/azle/the_azle_book.html)
+-   [Azle 101](https://dacade.org/communities/icp/courses/typescript-smart-contract-101/learning-modules/b14741ea-ee33-43a4-a742-9cdc0a6f0d1c)
 
 # Cycles
 
@@ -225,7 +225,7 @@ Ask your hacker house mentor for cycles coupons, then follow the steps outlined 
 # 1. Make sure you are using the correct developer idenity. Check with:
 dfx identity whoami
 # 2. Redeem the coupon:
-dfx cycles redeem-faucet-coupon <coupon_number> --ic
+dfx cycles redeem-faucet-coupon <coupon_code> --ic
 # 3. Check your new cycles balance:
 dfx cycles balance --ic
 ```
@@ -250,7 +250,9 @@ Note the submission criteria:
 -   Team submissions are not accepted here
 -   No re-use of previous works and plagiarism. Projects that explicitly re-used or plagiarized other works may be reported and subjected to the award cancellation
 
-Once you submitted the issue, approach a mentor at the hacker house to review your submission.
+Once you submitted the issue, approach your mentor Moritz Fuller at the hacker house to review your submission.
+![Photo on 08 11 24 at 16 02](https://github.com/user-attachments/assets/d7248c18-ac60-4090-9bc8-1e8db04d5468)
+
 
 ## Track Submission
 

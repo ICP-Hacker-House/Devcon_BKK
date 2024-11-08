@@ -16,7 +16,7 @@ Throughout the hacker house, you'll have the opportunity to complete various Bou
 
 ## Easy Bounties – $25 Each
 
--   **[Claim Cycles](https://anv4y-qiaaa-aaaal-qaqxq-cai.ic0.app/) and deploy a canister smart contract on ICP (awarded 100 times)**: Claim a cycles coupon and deploy a simple "Hello World" backend canister on mainnet, including a frontend with specific functionalities:
+-   **Ask your mentor for cycles and deploy a canister smart contract on ICP (awarded 100 times)**: Claim a cycles coupon and deploy a simple "Hello World" backend canister on mainnet, including a frontend with specific functionalities:
     -   Modify the `greet` function to update call.
     -   Keep an array of all submitted `name` arguments in the canister and expose them through a `submittedNames` query method
     -   Add a button to display them in the frontend.

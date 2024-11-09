@@ -254,7 +254,7 @@ Note the submission criteria:
 -   Team submissions are not accepted here
 -   No re-use of previous works and plagiarism. Projects that explicitly re-used or plagiarized other works may be reported and subjected to the award cancellation
 
-Once you submitted the issue, approach your mentor Moritz Fuller at the hacker house to review your submission.
+Once you submitted the issue, approach your mentor Moritz Fuller (@cryptoschindler) at the hacker house to review your submission.
 ![Photo on 08 11 24 at 16 02](https://github.com/user-attachments/assets/d7248c18-ac60-4090-9bc8-1e8db04d5468)
 
 

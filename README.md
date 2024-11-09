@@ -236,6 +236,9 @@ dfx cycles balance --ic
 
 # How to Submit
 
+> [!WARNING]  
+> The submission deadline for both bounties and tracks is 10th of November 12:30pm.
+
 ## Bounty Submission
 
 To submit a bounty for the hackathon - open a NEW [Issue](https://github.com/ICP-Hacker-House/Devcon_BKK/issues/new/choose) on this repository before the deadline.
